@@ -4,7 +4,7 @@ img {
 
 body {
     font-family: Verdana, sans-serif;
-    font-size: 1.2rem;
+
     background-color: aqua
 }
 
@@ -14,5 +14,6 @@ h1 {
 }
 
 p {
-    color: turquoise
+    font-size: 1.2rem;
+
 }
